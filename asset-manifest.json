@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3985b2f.css",
+    "main.js": "/static/js/main.04f6a857.js",
+    "static/js/787.8ba5bec8.chunk.js": "/static/js/787.8ba5bec8.chunk.js",
+    "static/media/Group 588 (1).png": "/static/media/Group 588 (1).8278135882c7f8eeb59e.png",
+    "static/media/Rectangle 48 (1).png": "/static/media/Rectangle 48 (1).6e9a9e430939e3e46fc7.png",
+    "static/media/home.png": "/static/media/home.ac7b61563a9bd4e0eec8.png",
+    "static/media/fallguy.png": "/static/media/fallguy.6e15500bb062782112bb.png",
+    "static/media/Rectangle 45.png": "/static/media/Rectangle 45.df37a7941f291d46a83e.png",
+    "static/media/Rectangle 46.png": "/static/media/Rectangle 46.d1307f2fe3ac84de65e1.png",
+    "static/media/cardgame.png": "/static/media/cardgame.1a746c2ce4ce9020fddc.png",
+    "static/media/cards2.png": "/static/media/cards2.9bf1b89b543f18c16a6f.png",
+    "static/media/Rectangle33.png": "/static/media/Rectangle33.1bea015e9daf5c27f370.png",
+    "static/media/Rectangle31.png": "/static/media/Rectangle31.d215c8be6ec120c80315.png",
+    "static/media/picture.png": "/static/media/picture.25f4c1db1e9b5e2dfe63.png",
+    "static/media/imgCard.png": "/static/media/imgCard.549c27452eee3f8a6ca1.png",
+    "static/media/imgCard1.png": "/static/media/imgCard1.b00da1e11fcba386094f.png",
+    "static/media/imgCard2.png": "/static/media/imgCard2.2e840c95961d471d36dc.png",
+    "index.html": "/index.html",
+    "main.b3985b2f.css.map": "/static/css/main.b3985b2f.css.map",
+    "main.04f6a857.js.map": "/static/js/main.04f6a857.js.map",
+    "787.8ba5bec8.chunk.js.map": "/static/js/787.8ba5bec8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3985b2f.css",
+    "static/js/main.04f6a857.js"
+  ]
+}
